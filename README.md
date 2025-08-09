@@ -20,7 +20,7 @@
         -   [ ] A link with the #id-name of the desired section or part of the page would be in the "href" attribute of the &lt;a&gt; element for a list item
             -   [ ] &lt;a href="#about-section"&gt;About&lt;/a&gt;
                 -   [ ] <a href="#about-section">About</a>
-                -   [ ] When the user would click the About link they would then be directed the About section of the page
+                -   [ ] When the user would click the About link they would then be directed to the About section of the page
 
 ---
 
