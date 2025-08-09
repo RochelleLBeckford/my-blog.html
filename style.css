@@ -1,0 +1,12 @@
+* {
+    background-color: #f0bec9;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-underline-offset: 3px;
+    color: whitesmoke;
+    background-color: blueviolet;
+}
