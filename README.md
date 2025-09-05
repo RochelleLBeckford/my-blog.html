@@ -29,3 +29,7 @@
   - [ ] CSS
 - [ ] HTML -> will be the structure and skeleton of how the app will appear on the webpage
 - [ ] CSS -> encompass the style of the app and give it some flare
+
+---
+
+- [ ] Link to vist the webpage: <a href="">rlb-my-blog-v1</a>
