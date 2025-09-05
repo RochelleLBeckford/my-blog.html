@@ -32,4 +32,4 @@
 
 ---
 
-- [ ] Link to vist the webpage: <a href="">rlb-my-blog-v1</a>
+- [ ] Link to vist the webpage: <a href="https://rlb-my-blog-v1.netlify.app/" target="_blank">rlb-my-blog-v1</a>
